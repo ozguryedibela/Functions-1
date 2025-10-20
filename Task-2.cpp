@@ -26,4 +26,5 @@ void areaCalculating () {
 int main() {
 	
 	areaCalculating();
+	
 }
